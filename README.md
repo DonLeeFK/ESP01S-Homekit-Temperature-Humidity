@@ -1,5 +1,5 @@
 # ESP01S-Homekit-Temperature-Humidity
-This is a implantation of HomeKit Temperature and Humidity sensor on ESP-01S(ESP8266)
+This is a implamentation of HomeKit Temperature and Humidity sensor on ESP-01S(ESP8266)
 
 ## Dependencies
 SimpleDHT  
