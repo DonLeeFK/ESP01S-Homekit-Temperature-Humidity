@@ -12,7 +12,7 @@
 #endif
 
 const char *ssid = "Cryptosignel";
-const char *password = "jc8035668ay";
+const char *password = "12345678";
 
 void wifi_connect() {
 	WiFi.persistent(false);
